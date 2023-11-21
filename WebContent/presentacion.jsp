@@ -69,6 +69,8 @@
             color: #f4f4f4;
             font-size: 30px;
         }
+        
+                
     </style>
 </head>
 <body>
@@ -80,7 +82,7 @@
     <nav>
         <div class="button-group">
             <a href="productos.jsp">PRODUCTOS</a>
-            <a href="marcas.jsp">MARCAS</a>
+            <a href="marca.jsp">MARCAS</a>
             <a href="ventas.jsp">VENTAS</a>
             <a href="clientes.jsp">CLIENTES</a>
         </div>

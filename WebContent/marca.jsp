@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Empleados - SISTEMA DE VENTAS - LADY'S SHOES</title>
+<title>Marcas - SISTEMA DE VENTAS - LADY'S SHOES</title>
 <style>
 body {
 	font-family: Arial, sans-serif;
@@ -72,15 +72,15 @@ nav a:hover {
 <body>
 
 	<header>
-		<h1>Empleados - LADY'S SHOES</h1>
+		<h1>Marcas - LADY'S SHOES</h1>
 	</header>
 
 	<nav>
 		<div class="button-group">
-			<a href="nuevoEmpleados.jsp">Ingresar Nuevo Empleado</a>
+			<a href="nuevaMarca.jsp">Ingresar Nueva Marca</a>
 		</div>
 		<div class="button-group">
-			<a href="ListadoEmpleados">Listado de Empleados</a>
+			<a href="ListadoMarcas.jsp">Listado de Marcas</a>
 		</div>
 
 		<div class="button-group">
