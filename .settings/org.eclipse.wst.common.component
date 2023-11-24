@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="System_Ventas_LadyShoes">
-        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="System_Ventas_LadyShoes"/>
-        <property name="java-output-path" value="/System_Ventas_LadyShoes/build/classes"/>
+    <wb-module deploy-name="HelloWorld">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="HelloWorld"/>
+        <property name="java-output-path" value="/HelloWorld/build/classes"/>
     </wb-module>
 </project-modules>
